@@ -1,7 +1,7 @@
 # Fritz beta feedback
 
 - [Search existing issues](https://github.com/fritz-marshal/fritz-beta-feedback/issues)
-- [File a new issue](https://github.com/fritz-marshal/fritz-beta-feedback/issues/new)
+- [File a new issue](https://github.com/fritz-marshal/fritz-beta-feedback/issues/new/choose)
 
 This is the issue tracker for the beta deployment of Fritz.
 
